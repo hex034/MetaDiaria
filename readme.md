@@ -7,7 +7,7 @@ Projeto feito com back-end pra registrar seus feitos no dia a dia..<br/>
 
 <p>
 <strong>Demostração em telefone celular.</strong>
-<video src="./.github/animation.gif" alt="Imagem de demostração."/>
+<img src="./.github/animation.gif" alt="Imagem de demostração."/>
 </p>
 
 <p align="center">
